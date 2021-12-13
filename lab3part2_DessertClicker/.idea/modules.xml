@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DessertClickerFinal.iml" filepath="$PROJECT_DIR$/.idea/modules/DessertClickerFinal.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/DessertClickerFinal.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/DessertClickerFinal.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lab3part2_DessertClicker.iml" filepath="$PROJECT_DIR$/.idea/modules/lab3part2_DessertClicker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/lab3part2_DessertClicker.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/lab3part2_DessertClicker.app.iml" />
     </modules>
   </component>
 </project>
